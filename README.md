@@ -23,7 +23,7 @@ f) Website landing page clone:<br>
 g) Portfolio:<br>
     Technologies used: HTML, CSS, Javascript<br>
     Frameworks used: Fontawesome, Bootstrap<br>
-    Live link: https://sai-manikanta-portfolio.netlify.app/ <br><br>
+    Live link: https://karnati-sai-manikanta-portfolio.netlify.app/ <br><br>
 h) Covid Data API:<br>
     Technologies used: HTML, CSS, Javascript<br>
     Frameworks used: Bootstrap, React<br>
