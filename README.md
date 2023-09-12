@@ -28,7 +28,11 @@ h) Covid Data API:<br>
     Technologies used: HTML, CSS, Javascript<br>
     Frameworks used: Bootstrap, React<br>
     Live link: https://manikanta-covid-data-project.netlify.app/ <br><br>
-i) Temparature Convertor:<br>
+i) Cash APP Landing Page:<br>
+    Technologies used: HTML, CSS, Javascript<br>
+    Frameworks used: React.js<br>
+    Live link: https://mercor-cash-app-sai-manikanta-karnati.netlify.app/ <br><br>
+j) Temparature Convertor:<br>
     Technologies used: HTML, CSS, Javascript<br>
     Frameworks used: Fontawesome<br>
     Live link: https://reliable-brioche-299391.netlify.app/ <br><br>
